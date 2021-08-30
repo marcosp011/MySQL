@@ -1,0 +1,1 @@
+update tb_funcionarios set tercerizado = false where id_funci = 1;
